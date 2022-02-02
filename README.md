@@ -3,7 +3,7 @@
 </h1>
 
 Hello! My name is Mohammed and I am a passionate and ambitious software engineer / software developer who has been working in software development with a focus on web development for several years. As a full-stack developer, I have very good knowledge of the development of web-based applications in the backend and frontend, interface programming and testing of the developed components. I bring good experience in working together in agile teams and project methods and act very independently in the projects and also support with calculations in acquisition situations.
-Want to know more about me? You can gladly visit my page via <a href="https://m-aziz.com" target="_blank"><b>m-aziz.com</b></a>.
+Want to know more about me? You can gladly visit my page <a href="https://m-aziz.com" target="_blank"><b>m-aziz.com</b></a>.
 
 <br>
 
